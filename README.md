@@ -68,7 +68,7 @@ I enjoy working at the intersection of technology, data, and problem-solving, wi
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/emre-kirgin-94b4a4152" target="blank">
+  <a href="https://linkedin.com/in/emrekirgin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emre Kırgın LinkedIn" height="30" width="40" />
   </a>
 </p>
